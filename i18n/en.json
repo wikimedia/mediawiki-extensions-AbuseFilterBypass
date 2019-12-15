@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nelson Monterroso"
+		]
+	},
+	"abusefilterbypass-desc": "Allows privileged users to bypass all AbuseFilter filters",
+	"right-abusefilter-bypass": "Bypass all abuse filters"
+}

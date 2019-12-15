@@ -1,0 +1,35 @@
+{
+	"name": "Abuse Filter Bypass",
+	"version": "1.1.1",
+	"author": [
+		"Nelson Monterroso",
+		"Jack Phoenix"
+	],
+	"url": "https://www.mediawiki.org/wiki/Extension:AbuseFilterBypass",
+	"descriptionmsg": "abusefilterbypass-desc",
+	"license-name": "GPL-2.0-or-later",
+	"requires": {
+		"MediaWiki": ">= 1.31.0"
+	},
+	"type": "other",
+	"MessagesDirs": {
+		"AbuseFilterBypass": [
+			"i18n"
+		]
+	},
+	"AutoloadClasses": {
+		"AbuseFilterBypass": "AbuseFilterBypass.class.php"
+	},
+	"Hooks": {
+		"AbuseFilterShouldFilterAction": "AbuseFilterBypass::onBypassCheck"
+	},
+	"AvailableRights": [
+		"abusefilter-bypass"
+	],
+	"GroupPermissions": {
+		"staff": {
+			"abusefilter-bypass": true
+		}
+	},
+	"manifest_version": 1
+}

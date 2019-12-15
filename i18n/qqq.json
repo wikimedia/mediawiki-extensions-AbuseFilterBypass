@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nelson Monterroso"
+		]
+	},
+	"abusefilterbypass-desc": "{{desc}}",
+	"right-abusefilter-bypass": "{{doc-right|abusefilter-bypass}}"
+}
