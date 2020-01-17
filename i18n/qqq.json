@@ -5,5 +5,6 @@
 		]
 	},
 	"abusefilterbypass-desc": "{{desc}}",
-	"right-abusefilter-bypass": "{{doc-right|abusefilter-bypass}}"
+	"right-abusefilter-bypass": "{{doc-right|abusefilter-bypass}}",
+	"action-abusefilter-bypass": "{{doc-action|abusefilter-bypass}}"
 }
