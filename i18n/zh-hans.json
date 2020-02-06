@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"铁桶"
+		]
+	},
+	"abusefilterbypass-desc": "允许有权限的用户绕过所有防滥用过滤器",
+	"right-abusefilter-bypass": "绕过所有防滥用过滤器",
+	"action-abusefilter-bypass": "绕过所有防滥用过滤器"
+}

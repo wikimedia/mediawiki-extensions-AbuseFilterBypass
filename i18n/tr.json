@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"BaRaN6161 TURK"
+		]
+	},
+	"abusefilterbypass-desc": "Ayrıcalıklı kullanıcıların tüm AbuseFilter filtrelerini atlamasına izin verir",
+	"right-abusefilter-bypass": "Tüm kötüye kullanım filtrelerini atla",
+	"action-abusefilter-bypass": "tüm kötüye kullanım filtrelerini atla"
+}

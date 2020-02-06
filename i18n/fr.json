@@ -1,6 +1,10 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Gomoko"
+		]
 	},
-	"abusefilterbypass-desc": "Permet aux utilisateurs privilégiés de ne pas être bloqués par les filtres anti-abus (AbuseFilter)"
+	"abusefilterbypass-desc": "Permet aux utilisateurs privilégiés de ne pas être bloqués par les filtres anti-abus (AbuseFilter)",
+	"right-abusefilter-bypass": "Contourner tous les filtres d’abus",
+	"action-abusefilter-bypass": "contourner tous les filtres d’abus"
 }

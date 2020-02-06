@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kly"
+		]
+	},
+	"abusefilterbypass-desc": "允許具有特權的使用者繞過所有濫用過濾器",
+	"right-abusefilter-bypass": "繞過所有的濫用過濾器",
+	"action-abusefilter-bypass": "繞過所有的濫用過濾器"
+}
