@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eduardo Addad de Oliveira"
+		]
+	},
+	"abusefilterbypass-desc": "Permite que usuários privilegiados ignorem todos os filtros do AbuseFilter",
+	"right-abusefilter-bypass": "Ignorar todos os filtros de abuso",
+	"action-abusefilter-bypass": "ignorar todos os filtros de abuso"
+}
