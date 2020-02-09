@@ -18,7 +18,7 @@
 		]
 	},
 	"AutoloadClasses": {
-		"AbuseFilterBypass": "AbuseFilterBypass.class.php"
+		"AbuseFilterBypass": "AbuseFilterBypass.php"
 	},
 	"Hooks": {
 		"AbuseFilterShouldFilterAction": "AbuseFilterBypass::onBypassCheck"
