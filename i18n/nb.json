@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"abusefilterbypass-desc": "La priviligerte brukere omgå alle misbruksfiltre",
+	"right-abusefilter-bypass": "Omgå alle misbruksfiltre",
+	"action-abusefilter-bypass": "omgå alle misbruksfiltre"
+}
