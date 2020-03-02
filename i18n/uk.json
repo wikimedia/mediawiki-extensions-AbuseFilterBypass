@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Piramidion"
+		]
+	},
+	"abusefilterbypass-desc": "Дозволяє привілейованим користувачам обходити всі фільтри редагувань",
+	"right-abusefilter-bypass": "обхід всіх фільтрів редагувань",
+	"action-abusefilter-bypass": "обхід всіх фільтрів редагувань"
+}
