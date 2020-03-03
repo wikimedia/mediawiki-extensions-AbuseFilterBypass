@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"MarcoAurelio"
+			"MarcoAurelio",
+			"Fitoschido"
 		]
 	},
-	"abusefilterbypass-desc": "Permite a ciertos usuarios eludir todos los filtros antiabusos",
+	"abusefilterbypass-desc": "Permite a usuarios privilegiados eludir todos los filtros antiabusos",
 	"right-abusefilter-bypass": "Eludir todos los filtros antiabusos",
 	"action-abusefilter-bypass": "eludir todos los filtros antiabusos"
 }
