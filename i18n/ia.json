@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"abusefilterbypass-desc": "Permitte al usatores privilegiate de evitar tote le filtros anti-abuso",
+	"right-abusefilter-bypass": "Contornar tote le filtros anti-abuso",
+	"action-abusefilter-bypass": "contornar tote le filtros anti-abuso"
+}
