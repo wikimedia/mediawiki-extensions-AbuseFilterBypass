@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kkairri"
+		]
+	},
+	"abusefilterbypass-desc": "特権利用者がすべての不正利用フィルターのフィルターを無視できるようにする"
+}
