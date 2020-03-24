@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"abusefilterbypass-desc": "Permite que los usuarios privilexaos salten tolos filtros antiabusos",
+	"right-abusefilter-bypass": "Saltar tolos filtros antiabusos",
+	"action-abusefilter-bypass": "saltar tolos filtros antiabusos"
+}
