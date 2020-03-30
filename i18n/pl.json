@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rail"
+		]
+	},
+	"abusefilterbypass-desc": "Umożliwia uprawnionym użytkownikom omijanie filtrów nadużyć",
+	"right-abusefilter-bypass": "Omijanie wszystkich filtrów nadużyć",
+	"action-abusefilter-bypass": "omijania wszystkich filtrów nadużyć"
+}
