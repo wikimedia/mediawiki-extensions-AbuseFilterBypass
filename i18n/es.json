@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"MarcoAurelio",
-			"Fitoschido"
+			"Fitoschido",
+			"MarcoAurelio"
 		]
 	},
 	"abusefilterbypass-desc": "Permite a usuarios privilegiados eludir todos los filtros antiabusos",
