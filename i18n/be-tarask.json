@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nerogaf"
+		]
+	},
+	"abusefilterbypass-desc": "Дазваляе прывілеяваным карыстачам абыходзіць усе фільтры AbuseFilter",
+	"right-abusefilter-bypass": "Абыйсьці ўсе фільтры злоўжываньняў",
+	"action-abusefilter-bypass": "абыйсьці ўсе фільтры злоўжываньняў"
+}
