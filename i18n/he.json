@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Steeve815"
+		]
+	},
+	"abusefilterbypass-desc": "מתן גישה למשתמשים מורשים לעקיפת כל מסנני ההשחתות",
+	"right-abusefilter-bypass": "עקיפת כל מסנני ההשחתות",
+	"action-abusefilter-bypass": "לעקוף את כל מסנני ההשחתות"
+}
