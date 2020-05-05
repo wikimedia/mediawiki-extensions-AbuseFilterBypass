@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kkairri"
+			"Kkairri",
+			"おはぐろ蜻蛉"
 		]
 	},
-	"abusefilterbypass-desc": "特権利用者がすべての不正利用フィルターのフィルターを無視できるようにする"
+	"abusefilterbypass-desc": "特権利用者がすべての編集フィルターのフィルターを無視できるようにする"
 }
