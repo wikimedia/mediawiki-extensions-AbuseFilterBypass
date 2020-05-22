@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hamilton Abreu"
+		]
+	},
+	"abusefilterbypass-desc": "Permite que os utilizadores privilegiados contornem todos os filtros do AbuseFilter",
+	"right-abusefilter-bypass": "Contornar todos os filtros de abusos",
+	"action-abusefilter-bypass": "contornar todos os filtros de abusos"
+}
