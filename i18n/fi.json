@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"01miki10",
 			"Jack Phoenix"
 		]
 	},
 	"abusefilterbypass-desc": "Mahdollistaa tiettyjen käyttäjien ohittaa kaikki AbuseFilter-väärinkäyttösuodattimet",
-	"right-abusefilter-bypass": "Ohittaa kaikki väärinkäyttösuodattimet"
+	"right-abusefilter-bypass": "Ohittaa kaikki väärinkäyttösuodattimet",
+	"action-abusefilter-bypass": "ohittaa kaikkia väärinkäyttösuodattimia"
 }
