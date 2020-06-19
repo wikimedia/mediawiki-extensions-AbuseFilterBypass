@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"TomášPolonec"
+		]
+	},
+	"abusefilterbypass-desc": "Umožňuje oprávneným používateľom obísť všetky filtre zneužití.",
+	"right-abusefilter-bypass": "Obísť všetky filtre zneužití",
+	"action-abusefilter-bypass": "obísť všetky filtre zneužití"
+}
