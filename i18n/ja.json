@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Kkairri",
+			"Siglite3",
 			"Waki285",
 			"おはぐろ蜻蛉",
 			"そらたこ"
 		]
 	},
 	"abusefilterbypass-desc": "特権利用者がすべての不正利用フィルターのフィルターを無視できるようにする",
-	"right-abusefilter-bypass": "すべての不正利用フィルターをバイパスする",
-	"action-abusefilter-bypass": "すべての不正利用フィルターをバイパスする"
+	"right-abusefilter-bypass": "すべての不正利用フィルターを回避",
+	"action-abusefilter-bypass": "すべての不正利用フィルターの回避"
 }
