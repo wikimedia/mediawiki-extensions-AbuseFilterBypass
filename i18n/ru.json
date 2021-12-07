@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Facenapalm"
+			"Facenapalm",
+			"Okras"
 		]
 	},
+	"abusefilterbypass-desc": "Позволяет привилегированным участникам обходить все фильтры AbuseFilter",
 	"right-abusefilter-bypass": "Обходить все фильтры злоупотреблений",
 	"action-abusefilter-bypass": "обходить все фильтры злоупотреблений"
 }
