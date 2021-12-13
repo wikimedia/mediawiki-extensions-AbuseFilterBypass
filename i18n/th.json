@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Horus"
+		]
+	},
+	"abusefilterbypass-desc": "อนุญาตผู้ใช้ที่มีสิทธิ์เบี่ยงตัวกรองการแก้ไขทั้งหมด",
+	"right-abusefilter-bypass": "เบี่ยงตัวกรองการแก้ไขทั้งหมด",
+	"action-abusefilter-bypass": "เบี่ยงตัวกรองการแก้ไขทั้งหมด"
+}

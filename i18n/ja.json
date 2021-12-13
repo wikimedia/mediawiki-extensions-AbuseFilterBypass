@@ -3,8 +3,12 @@
 		"authors": [
 			"Kkairri",
 			"おはぐろ蜻蛉",
-			"そらたこ"
+			"そらたこ",
+			"Siglite3",
+			"Waki285"
 		]
 	},
-	"abusefilterbypass-desc": "特権利用者がすべての不正利用フィルターのフィルターを無視できるようにする"
+	"abusefilterbypass-desc": "特権利用者がすべての不正利用フィルターのフィルターを無視できるようにする",
+	"right-abusefilter-bypass": "すべての不正利用フィルターを回避",
+	"action-abusefilter-bypass": "すべての不正利用フィルターの回避"
 }

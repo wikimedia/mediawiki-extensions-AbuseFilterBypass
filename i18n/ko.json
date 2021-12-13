@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ykhwong"
+			"Ykhwong",
+			"Kwj2772"
 		]
 	},
+	"abusefilterbypass-desc": "특별한 권한이 있는 사용자에게 모든 편집 필터를 우회하도록 허용합니다.",
 	"right-abusefilter-bypass": "모든 편집 필터 우회하기",
 	"action-abusefilter-bypass": "모든 편집 필터 우회하기"
 }

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gianfranco"
+		]
+	},
+	"abusefilterbypass-desc": "Permette a utenti con certi privilegi di bypassare tutti i filtri anti-abuso",
+	"right-abusefilter-bypass": "Bypassa tutti i filtri anti-abuso",
+	"action-abusefilter-bypass": "bypassa tutti i filtri anti-abuso"
+}

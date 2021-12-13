@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mainframe98"
+			"Mainframe98",
+			"McDutchie"
 		]
 	},
+	"abusefilterbypass-desc": "Hiermee kunnen bevoorrechte gebruikers alle AbuseFilter-filters omzeilen",
 	"right-abusefilter-bypass": "Alle misbruikfilters mogen omzeilen",
 	"action-abusefilter-bypass": "alle misbruikfilters te mogen omzeilen"
 }
