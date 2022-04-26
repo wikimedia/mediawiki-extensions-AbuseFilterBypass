@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jeeputer"
+			"Jeeputer",
+			"Sunfyre"
 		]
 	},
-	"right-abusefilter-bypass": "عبور از تمام پالایه‌های خرابکاری",
-	"action-abusefilter-bypass": "عبور از تمام پالایه‌های خرابکاری"
+	"right-abusefilter-bypass": "عبور از تمام پالایه‌های ویرایش",
+	"action-abusefilter-bypass": "عبور از تمام پالایه‌های ویرایش"
 }
