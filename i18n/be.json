@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vlad5250"
+		]
+	},
+	"abusefilterbypass-desc": "Дазваляе прывілеяваным удзельнікам абыходзіць усе фільтры AbuseFilter",
+	"right-abusefilter-bypass": "Абыход усіх фільтраў злоўжыванняў",
+	"action-abusefilter-bypass": "абыйсці ўсе фільтры злоўжыванняў"
+}
