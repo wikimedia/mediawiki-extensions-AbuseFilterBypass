@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"محمد أحمد عبد الفتاح"
+			"محمد أحمد عبد الفتاح",
+			"NEHAOUA"
 		]
 	},
+	"abusefilterbypass-desc": "يسمح للمستخدمين المتميزين بتجاوز جميع عوامل تصفية AbuseFilter",
 	"right-abusefilter-bypass": "تجاوز كل مرشحات الإساءة",
 	"action-abusefilter-bypass": "تجاوز كل مرشحات الإساءة"
 }
