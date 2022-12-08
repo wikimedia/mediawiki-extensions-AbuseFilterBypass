@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"RStular"
+			"RStular",
+			"Eleassar"
 		]
 	},
+	"abusefilterbypass-desc": "Privilegiranim uporabnikom omogoča obhod vseh filtrov AbuseFilter",
 	"right-abusefilter-bypass": "Ignoriraj vse filtre proti zlorabam.",
 	"action-abusefilter-bypass": "prezrete vse filtre proti zlorabam."
 }
