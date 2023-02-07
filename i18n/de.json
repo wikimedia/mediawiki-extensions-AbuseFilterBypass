@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"DraconicDark",
-			"Killarnee"
+			"Killarnee",
+			"Justman10000"
 		]
 	},
-	"abusefilterbypass-desc": "Ermöglicht es privilegierten Benutzern, alle AbuseFilter-Filter zu umgehen",
-	"right-abusefilter-bypass": "Umgehen Sie alle Missbrauchsfilter",
-	"action-abusefilter-bypass": "umgehen Sie alle Missbrauchsfilter"
+	"abusefilterbypass-desc": "Erlaubt privilegierten Benutzern, alle AbuseFilter zu umgehen",
+	"right-abusefilter-bypass": "Alle Missbrauchsfilter umgehen",
+	"action-abusefilter-bypass": "Alle Missbrauchsfilter umgehen"
 }
