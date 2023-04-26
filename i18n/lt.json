@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nokeoo"
+		]
+	},
+	"abusefilterbypass-desc": "Leidžia privilegijuotiems naudotojams apeiti visus AbuseFilter filtrus",
+	"right-abusefilter-bypass": "Apeiti visus piktnaudžiavimo filtrus",
+	"action-abusefilter-bypass": "apeiti visus piktnaudžiavimo filtrus"
+}
