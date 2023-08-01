@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Winston Sung"
+		]
+	},
+	"abusefilterbypass-desc": "Omogućuje privilegiranim korisnicima zabilaženje Filtera zloupotrebe",
+	"right-abusefilter-bypass": "Zaobilaženje svih filtera zloupotrebe",
+	"action-abusefilter-bypass": "zaobilaženje svih filtera zloupotrebe"
+}
