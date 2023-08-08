@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"abusefilterbypass-desc": "Permite aos usuarios con privilexios ignorar todos os filtros de abusos",
+	"right-abusefilter-bypass": "Eludir todos os filtros de abusos",
+	"action-abusefilter-bypass": "eludir todos os filtros de abusos"
+}
