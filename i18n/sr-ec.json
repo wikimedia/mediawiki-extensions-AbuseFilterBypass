@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"BadDog"
+			"BadDog",
+			"Kizule"
 		]
 	},
+	"abusefilterbypass-desc": "Омогућава привилегованим корисницима да заобиђу све филтере Филтера злоупотребе",
 	"right-abusefilter-bypass": "заобилажење свих филтера злоупотреба",
 	"action-abusefilter-bypass": "заобилазите све филтере злоупотреба"
 }
