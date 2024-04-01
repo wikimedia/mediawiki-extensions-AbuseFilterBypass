@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Hide on Rosé",
 			"Thingofme"
 		]
 	},
+	"abusefilterbypass-desc": "Cho phép các thành viên có đặc quyền được bỏ qua các Bộ lọc sai phạm",
 	"right-abusefilter-bypass": "Vượt qua các bộ lọc sai phạm.",
 	"action-abusefilter-bypass": "vượt qua các bộ lọc sai phạm."
 }
