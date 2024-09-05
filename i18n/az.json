@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nemoralis"
+		]
+	},
+	"abusefilterbypass-desc": "İmtiyazlı istifadəçilərə bütün AbuseFilter süzgəclərini atlamaq imkan verir",
+	"right-abusefilter-bypass": "Dəyişiklik süzgəclərindən təsirlənməmək",
+	"action-abusefilter-bypass": "dəyişiklik süzgəclərindən təsirlənməmək"
+}
