@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": []
 	},
+	"abusefilterbypass-desc": "Omogućava privilegovanim korisnicima da zaobiđu sve filtere Filtera zloupotrebe",
 	"right-abusefilter-bypass": "zaobilaženje svih filtera zloupotreba",
 	"action-abusefilter-bypass": "zaobilazite sve filtere zloupotreba"
 }
