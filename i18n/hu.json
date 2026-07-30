@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dj"
+		]
+	},
+	"abusefilterbypass-desc": "Lehetővé teszi a kiemelt jogosultságú felhasználók számára az összes vandálszűrő megkerülését",
+	"right-abusefilter-bypass": "az összes vandálszűrő megkerülése",
+	"action-abusefilter-bypass": "az összes vandálszűrő megkerülése"
+}
